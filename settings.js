@@ -17,14 +17,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'JOHN-WICK ʙᴏᴛ'
+global.INBOX_BLOCK = 'on' //inbox block
+global.alivemsg = 'JOHN-WICK is here'
 global.alivepic = 'https://i.ibb.co/M6Hbh3t/steamuserimages-a-akamaihd.gif '
 global.owner = ['12495016952'] //ur owner number
 global.ownername = "JOHN_WICK" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: GossipCafe" //ur yt chanel name
+global.socialm = "GitHub: JohnWick" //ur github or insta name
+global.location = "India, Kerala" //ur location
 
 //bot bomdy 
 global.session = "MXRDa2pINmY=" //session Id
@@ -33,10 +33,10 @@ global.lang = "EN" //Select Language "EN" to English "SI" to sinhala
 global.premium = ['12495016952'] //ur premium number
 global.botname = 'JOHN_WICK ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://www.gossipcafe.ga/' //script link
+global.websitex = "https://www.youtube.com/watch?v=bKaesrHjDcw" //ur website to be displayed
+global.botscript = 'https://www.gossipcafe.co.in/' //script link
 global.themeemoji = "🕴️" //ur theme emoji
-global.packname = "Dark Nero" //ur sticker watermark packname
+global.packname = "John Wick" //ur sticker watermark packname
 global.author = "John Wick" //ur sticker watermark author
 global.wm = "John Wick." //ur watermark
 
