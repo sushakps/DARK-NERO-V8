@@ -27,18 +27,18 @@ global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = "ejE4bXpEYks=" //session Id
+global.session = "MXRDa2pINmY=" //session Id
 global.ownernomer = "12495016952" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
 global.premium = ['12495016952'] //ur premium number
 global.botname = 'JOHN_WICK ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://www.darknero.ga/' //script link
+global.botscript = 'https://www.gossipcafe.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "Dark Nero" //ur sticker watermark packname
+global.author = "John Wick" //ur sticker watermark author
+global.wm = "John Wick." //ur watermark
 
 // Other
 global.sessionName = 'session'
