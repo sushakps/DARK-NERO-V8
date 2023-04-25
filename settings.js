@@ -16,8 +16,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
-global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'on' //inbox block
+global.INBOX_BLOCK_MSG ='SHORRY!!!'
+global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'JOHN-WICK is here'
 global.alivepic = 'https://i.ibb.co/93MS8rh/BB.png '
 global.owner = ['12495016952'] //ur owner number
@@ -35,7 +35,7 @@ global.botname = 'JOHN_WICK ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/watch?v=bKaesrHjDcw" //ur website to be displayed
 global.botscript = 'https://www.gossipcafe.co.in/' //script link
-global.themeemoji = "🕴️" //ur theme emoji
+global.themeemoji = "👨‍🦱" //ur theme emoji
 global.packname = "John Wick" //ur sticker watermark packname
 global.author = "John Wick" //ur sticker watermark author
 global.wm = "John Wick." //ur watermark
@@ -49,13 +49,13 @@ global.sp = ''
 global.mess = {
     success: 'Here you go!',
     admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Make Me Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'ᴘʟᴇᴀꜱᴇ Wait...',
+    wait: 'Please Wait...',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
